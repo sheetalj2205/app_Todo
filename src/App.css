@@ -1,0 +1,42 @@
+body{
+  background-color:#292828;
+  
+}
+
+h1{
+  font-size: 4.0vmax;
+  font-family: 'Sansita Swashed', cursive;
+  text-align: center;
+  margin-top: 60px;
+  color: white;
+  opacity: 1;
+}
+form {
+  position: fixed;
+  margin-top: 150px;
+  right: 10%;
+  left: 10%;
+  border-radius: 8px;
+}
+
+.items {
+  position: fixed;
+  top: 270px;
+  right: 10%;
+  left: 10%;
+  border-radius: 8px;
+}
+
+span{
+  color: green;
+  font-weight: bold;
+}
+footer{
+  position:absolute;
+  bottom:1%;
+  display:block;  
+  width:100%;
+  text-align: center;
+  color: white;
+  
+}
